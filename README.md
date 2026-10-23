@@ -276,9 +276,13 @@ A role-based web application designed to streamline **employee performance manag
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://www.linkedin.com/in/kshitij-kumar-865802387/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 <br><br>
 
-**Thanks for visiting my profile! ⭐**
+**Let's connect, build, and create something awesome. 🚀**
 
 <br>
 
